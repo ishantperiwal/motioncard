@@ -1,7 +1,7 @@
 {
   "moving_superSlow": {
     "title": "moving_superSlow",
-    "explanation": "Change This curve propels the object to move rapidly right from the start, with no initial delay, and then gradually slows down as it reaches its final position. It's ideal for elements that need immediate attention and then settle gracefully, such as loading indicators or progress bars that start quickly to reassure the user but ease into completion to indicate readiness."
+    "explanation": "This curve propels the object to move rapidly right from the start, with no initial delay, and then gradually slows down as it reaches its final position. It's ideal for elements that need immediate attention and then settle gracefully, such as loading indicators or progress bars that start quickly to reassure the user but ease into completion to indicate readiness."
   },
   "moving_verySlow": {
     "title": "moving_verySlow",
