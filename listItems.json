@@ -1,0 +1,69 @@
+{
+  "listItems": [
+    {
+      "name": "moving_superSlow",
+      "coordinates": "0.1, 0.1, 0.1, 1",
+      "type": "regular"
+    },
+    {
+      "name": "moving_verySlow",
+      "coordinates": "0.1, 0.1, 0.2, 1",
+      "type": "regular"
+    },
+    {
+      "name": "moving_slow",
+      "coordinates": "0.1, 0.1, 0.4, 1",
+      "type": "regular"
+    },
+    {
+      "name": "slow_superSlow",
+      "coordinates": "0.6, 0, 0.1, 1",
+      "type": "regular"
+    },
+    {
+      "name": "slow_verySlow",
+      "coordinates": "0.6, 0, 0.2, 1",
+      "type": "regular"
+    },
+    {
+      "name": "slow_slow",
+      "coordinates": "0.6, 0, 0.4, 1",
+      "type": "regular"
+    },
+    {
+      "name": "slow_moving",
+      "coordinates": "0.6, 0, 0.9, 0.9",
+      "type": "regular"
+    },
+    {
+      "name": "verySlow_slow",
+      "coordinates": "0.8, 0, 0.4, 1",
+      "type": "regular"
+    },
+    {
+      "name": "verySlow_moving",
+      "coordinates": "0.8, 0, 0.9, 0.9",
+      "type": "regular"
+    },
+    {
+      "name": "superSlow_slow",
+      "coordinates": "0.9, 0, 0.4, 1",
+      "type": "regular"
+    },
+    {
+      "name": "superSlow_moving",
+      "coordinates": "0.9, 0, 0.9, 0.9",
+      "type": "regular"
+    },
+    {
+      "name": "linear",
+      "coordinates": "0.1, 0.1, 0.9, 0.9",
+      "type": "regular"
+    },
+    {
+      "name": "elastic",
+      "coordinates": "0.4, 0, 0.2, 1",
+      "type": "elastic"
+    }
+  ]
+}
