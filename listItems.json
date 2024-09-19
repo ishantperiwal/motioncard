@@ -63,7 +63,7 @@
     {
       "name": "elastic",
       "coordinates1": "0.1, 0.1, 0.1, 1",
-      "coordinates2": "0.4, 0, 0.2, 1"
+      "coordinates2": "0.4, 0, 0.2, 1",
       "type": "elastic"
     }
   ]
