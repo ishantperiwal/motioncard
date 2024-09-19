@@ -1,17 +1,17 @@
 {
   "listItems": [
     {
-      "name": "Emphasized Deaccelerate",
+      "name": "Softer Brake ",
       "coordinates": "0.1, 0.1, 0.1, 1",
       "type": "regular"
     },
     {
-      "name": "moving_verySlow",
+      "name": "Soft Brake",
       "coordinates": "0.1, 0.1, 0.2, 1",
       "type": "regular"
     },
     {
-      "name": "moving_slow",
+      "name": "Brake",
       "coordinates": "0.1, 0.1, 0.4, 1",
       "type": "regular"
     },
