@@ -5,7 +5,7 @@
   },
   "moving_verySlow": {
     "title": "moving_verySlow",
-    "explanation": "This curve initiates the object's movement instantly, moving swiftly at the beginning, and then gently decelerates as it approaches the end. It's perfect for elements that should respond promptly and then smoothly come to rest, like buttons that expand slightly on tap or notifications that appear quickly but settle softly to draw attention without being abrupt."
+    "explanation": "This curve initiates the object's movement instantly, moving swiftly at the beginning, and then gently decelerates as it approaches the end. It's perfect for elements that should respond promptly and then smoothly come to rest, like buttons that expand slightly on tap or notifications that appear quickly but settle softly to draw attention without being abrupt.This curve initiates the object's movement instantly, moving swiftly at the beginning, and then gently decelerates as it approaches the end. It's perfect for elements that should respond promptly and then smoothly come to rest, like buttons that expand slightly on tap or notifications that appear quickly but settle softly to draw attention without being abrupt."
   },
   "moving_slow": {
     "title": "moving_slow",
