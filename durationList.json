@@ -2,35 +2,43 @@
   "durationItems": [
     {
       "duration": "100ms",
-      "name": "quick1"
+      "name": "quick1",
+      "parameter": "1| quick1"
     },
     {
       "duration": "250ms",
-      "name": "quick2"
+      "name": "quick2",
+      "parameter": "2| quick2"
     },
     {
       "duration": "300ms",
       "name": "short1"
+      "parameter": "3| short1"
     },
     {
       "duration": "350ms",
       "name": "short2"
+      "parameter": "4| short2"
     },
     {
       "duration": "400ms",
       "name": "medium1"
+      "parameter": "5| medium1"
     },
     {
       "duration": "450ms",
       "name": "medium2"
+      "parameter": "6| medium2"
     },
     {
       "duration": "550ms",
       "name": "long1"
+      "parameter": "7| long1"
     },
     {
       "duration": "600ms",
       "name": "long2"
+      "parameter": "7| long2"
     }
   ]
 }
