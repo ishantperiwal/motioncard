@@ -3,69 +3,82 @@
     {
       "name": "Softer Brake",
       "coordinates": "0.1, 0.1, 0.1, 1",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "1| moving_superSlow"
     },
     {
       "name": "Soft Brake",
       "coordinates": "0.1, 0.1, 0.2, 1",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "2| moving_verySlow"
     },
     {
       "name": "Brake",
       "coordinates": "0.1, 0.1, 0.4, 1",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "3| moving_slow"
     },
     {
       "name": "slow_superSlow",
       "coordinates": "0.6, 0, 0.1, 1",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "4| slow_superSlow"
     },
     {
       "name": "slow_verySlow",
       "coordinates": "0.6, 0, 0.2, 1",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "5| slow_verySlow"
     },
     {
       "name": "slow_slow",
       "coordinates": "0.6, 0, 0.4, 1",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "6| slow_slow"
     },
     {
       "name": "slow_moving",
       "coordinates": "0.6, 0, 0.9, 0.9",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "7| slow_moving"
     },
     {
       "name": "verySlow_slow",
       "coordinates": "0.8, 0, 0.4, 1",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "8| verySlow_slow"
     },
     {
       "name": "verySlow_moving",
       "coordinates": "0.8, 0, 0.9, 0.9",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "9| verySlow_moving"
     },
     {
       "name": "superSlow_slow",
       "coordinates": "0.9, 0, 0.4, 1",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "10| superSlow_slow"
     },
     {
       "name": "superSlow_moving",
       "coordinates": "0.9, 0, 0.9, 0.9",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "11| superSlow_moving"
     },
     {
       "name": "linear",
       "coordinates": "0.1, 0.1, 0.9, 0.9",
-      "type": "regular"
+      "type": "regular",
+      "parameter": "12| linear"
     },
     {
       "name": "elastic",
       "coordinates1": "0.1, 0.1, 0.1, 1",
       "coordinates2": "0.4, 0, 0.2, 1",
       "subtext": "Springy",
-      "type": "elastic"
-    }
+      "type": "elastic",
+      "parameter": "13| elastic"
+     }
   ]
 }
