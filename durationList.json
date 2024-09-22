@@ -3,42 +3,42 @@
     {
       "duration": "100ms",
       "name": "quick1",
-      "parameter": "1| quick1"
+      "parameter": "quick1 | 100ms"
     },
     {
       "duration": "250ms",
       "name": "quick2",
-      "parameter": "2| quick2"
+      "parameter": "quick2 | 250ms"
     },
     {
       "duration": "300ms",
       "name": "short1",
-      "parameter": "3| short1"
+      "parameter": "short1 | 300ms"
     },
     {
       "duration": "350ms",
       "name": "short2",
-      "parameter": "4| short2"
+      "parameter": "short2 | 350ms"
     },
     {
       "duration": "400ms",
       "name": "medium1",
-      "parameter": "5| medium1"
+      "parameter": "medium1 | 400ms"
     },
     {
       "duration": "450ms",
       "name": "medium2",
-      "parameter": "6| medium2"
+      "parameter": "medium2 | 450ms"
     },
     {
       "duration": "550ms",
       "name": "long1",
-      "parameter": "7| long1"
+      "parameter": "long1 | 550ms"
     },
     {
       "duration": "600ms",
       "name": "long2",
-      "parameter": "7| long2"
+      "parameter": "long2 | 600ms"
     }
   ]
 }
