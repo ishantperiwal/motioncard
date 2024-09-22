@@ -17,27 +17,27 @@
     },
     {
       "duration": "350ms",
-      "name": "short2"
+      "name": "short2",
       "parameter": "4| short2"
     },
     {
       "duration": "400ms",
-      "name": "medium1"
+      "name": "medium1",
       "parameter": "5| medium1"
     },
     {
       "duration": "450ms",
-      "name": "medium2"
+      "name": "medium2",
       "parameter": "6| medium2"
     },
     {
       "duration": "550ms",
-      "name": "long1"
+      "name": "long1",
       "parameter": "7| long1"
     },
     {
       "duration": "600ms",
-      "name": "long2"
+      "name": "long2",
       "parameter": "7| long2"
     }
   ]
