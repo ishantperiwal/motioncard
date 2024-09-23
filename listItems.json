@@ -1,19 +1,19 @@
 {
   "listItems": [
     {
-      "name": "Softer Brake",
+      "name": "moving_superSlow",
       "coordinates": "0.1, 0.1, 0.1, 1",
       "type": "regular",
       "parameter": "1| moving_superSlow"
     },
     {
-      "name": "Soft Brake",
+      "name": "moving_verySlow",
       "coordinates": "0.1, 0.1, 0.2, 1",
       "type": "regular",
       "parameter": "2| moving_verySlow"
     },
     {
-      "name": "Brake",
+      "name": "moving_slow",
       "coordinates": "0.1, 0.1, 0.4, 1",
       "type": "regular",
       "parameter": "3| moving_slow"
