@@ -1,14 +1,14 @@
 {
   "listItems": [
     {
-      "name": "moving_superSlow",
+      "name": "Moving_Super Slow",
       "coordinates": "0.1, 0.1, 0.1, 1",
       "type": "regular",
       "parameter": "1| moving_superSlow",
       "example": "Bottom Sheet"
     },
     {
-      "name": "moving_verySlow",
+      "name": "Moving_Very Slow",
       "coordinates": "0.1, 0.1, 0.2, 1",
       "type": "regular",
       "parameter": "2| moving_verySlow"
