@@ -1,2 +1,9 @@
-version 1.0
-Date 26-09-24
+{
+  "versionDetails": [
+    {
+      "version": "1.0",
+      "date": "26-09-24",
+      "notes": "Extended support for new easing curves."
+    }
+  ]
+}
