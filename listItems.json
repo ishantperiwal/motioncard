@@ -81,9 +81,17 @@
       "name": "elastic",
       "coordinates1": "0.1, 0.1, 0.1, 1",
       "coordinates2": "0.4, 0, 0.2, 1",
-      "subtext": "Springy",
+      "subtext": "Spring Effect",
       "type": "elastic",
       "parameter": "13| elastic"
+     },
+    {
+      "name": "bounce",
+      "coordinates1": "0.1, 0.1, 0.9, 0.9",
+      "coordinates2": "0.1, 0.1, 0.2, 1",
+      "subtext": "Jump Effect",
+      "type": "elastic",
+      "parameter": "14| bounce"
      }
   ]
 }
