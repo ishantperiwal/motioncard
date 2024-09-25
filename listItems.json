@@ -79,11 +79,14 @@
     },
     {
       "name": "elastic",
+      "name1": "Overshoot",
+      "name2": "Relax",
       "coordinates1": "0.1, 0.1, 0.1, 1",
       "coordinates2": "0.4, 0, 0.2, 1",
       "subtext": "Spring Effect",
       "type": "elastic",
-      "parameter": "13| elastic"
+      "parameter": "13| elastic",
+      "back-percentage": "20"
      }
   
   ]
