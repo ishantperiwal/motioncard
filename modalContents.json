@@ -50,5 +50,9 @@
   "elastic": {
     "title": "elastic",
     "explanation": "The object moves past its final position (overshoot) and then smoothly return to settle into place (relax). This motion is ideal for interactive elements that benefit from a dynamic and playful feel, such as buttons that bounce slightly when pressed or cards that spring into view, enhancing user engagement by providing satisfying visual feedback."
+  },
+  "bounce": {
+    "title": "bounce",
+    "explanation": "The object moves past its final position (overshoot) and then smoothly return to settle into place (relax). This motion is ideal for interactive elements that benefit from a dynamic and playful feel, such as buttons that bounce slightly when pressed or cards that spring into view, enhancing user engagement by providing satisfying visual feedback."
   }
 }
