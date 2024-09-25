@@ -86,7 +86,7 @@
       "subtext": "Spring Effect",
       "type": "elastic",
       "parameter": "13| elastic",
-      "back-percentage": "20"
+      "backpercentage": "20"
      }
   
   ]
