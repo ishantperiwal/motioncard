@@ -45,7 +45,7 @@
   },
   "linear": {
     "title": "linear",
-    "explanation": "<p>Object moves at a constant speed form start to finish with no acceleration or deceleration."
+    "explanation": "<p>Object moves at a constant speed form start to finish with no acceleration or deceleration.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=951-2022&node-type=frame&viewport=-1731%2C-499%2C0.41&t=K9Ibh9xpEEwXViMM-1&scaling=min-zoom&content-scaling=fixed' target='_blank'>Shimmer</a></span></div>"
   },
   "elastic": {
     "title": "elastic",
