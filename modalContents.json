@@ -1,35 +1,35 @@
 {
   "moving_superSlow": {
     "title": "Softer Brake",
-    "explanation": "<p>This curve propels the object to move rapidly right from the start, with no initial delay, and then gradually slows down as it reaches its final position. It's ideal for elements that need immediate attention and then settle gracefully.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
+    "explanation": "<p>Object decelerates <b>very gently</b>after starting from a moving state.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "moving_verySlow": {
     "title": "moving_verySlow",
-    "explanation": "This curve initiates the object's movement instantly, moving swiftly at the beginning, and then gently decelerates as it approaches the end. It's perfect for elements that should respond promptly and then smoothly come to rest, like buttons that expand slightly on tap or notifications that appear quickly but settle softly to draw attention without being abrupt.This curve initiates the object's movement instantly, moving swiftly at the beginning, and then gently decelerates as it approaches the end. It's perfect for elements that should respond promptly and then smoothly come to rest, like buttons that expand slightly on tap or notifications that appear quickly but settle softly to draw attention without being abrupt."
+    "explanation": "<p>Object decelerates <b>gently</b>after starting from a moving state.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "moving_slow": {
     "title": "moving_slow",
-    "explanation": "The object starts moving immediately with a quick pace and then gradually eases into its final position with a mild slowdown. This curve is suitable for standard interactions where responsiveness is key but a smooth finish enhances user experience, such as toggling switches or sliding menus that need to feel both snappy and natural."
+    "explanation": "<p>Object decelerates <b>normally</b> after starting from a moving state.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "slow_superSlow": {
     "title": "slow_superSlow",
-    "explanation": "The object begins its movement slowly, with a noticeable initial delay, and then gradually slows down even more as it reaches the end. This creates a prolonged, graceful motion that's ideal for elements meant to build anticipation, like revealing a hidden feature or unfolding additional content where a slow approach heightens user interest."
+    "explanation": "<p>Object decelerates <b>very gently</b> after accelerating <b>normally</b> from its initial position.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "slow_verySlow": {
     "title": "slow_verySlow",
-    "explanation": "Starting with a gentle, delayed movement, the object then eases into its final position with a soft deceleration. This curve is great for guiding the user's attention gradually, suitable for onboarding tutorials or step-by-step instructions where a measured pace aids comprehension."
+    "explanation": "<p>Object decelerates <b>gently</b> after accelerating <b>normally</b> from its initial position.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "slow_slow": {
     "title": "slow_slow",
-    "explanation": "The object moves slowly from start to finish, maintaining a consistent, gentle motion throughout. It's ideal for background animations or subtle UI elements that shouldn't distract the user, like a softly moving background image or a delicate progress indicator that complements the overall design without drawing focus."
+    "explanation": "<p>Object decelerates <b>normally</b> after accelerating <b>normally</b> from its initial position.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "slow_moving": {
     "title": "slow_moving",
-    "explanation": "The object starts with a slow, delayed movement and then picks up speed to finish swiftly. This curve is useful for actions where the completion is more significant than the start, such as submitting a form where the initial processing is gradual but the confirmation appears quickly to reassure the user."
+   "explanation": "<p>Object accelerates <b>normally</b> and ends up in a moving state.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "verySlow_slow": {
     "title": "verySlow_slow",
-    "explanation": "Beginning with a significant initial delay, the object moves very slowly at first and then eases into its final position with a gentle deceleration. This curve is ideal for creating a sense of deliberate progression, suitable for displaying detailed information or complex data where a slow reveal helps the user absorb the content."
+   "explanation": "<p>Object decelerates <b>normally</b> after accelerating <b>gently</b> from its initial position.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "verySlow_moving": {
     "title": "verySlow_moving",
@@ -37,19 +37,19 @@
   },
   "superSlow_slow": {
     "title": "superSlow_slow",
-    "explanation": "With the longest initial delay, the object moves extremely slowly at the start and then gently eases into its final position. This curve is perfect for highlighting important updates or announcements where building anticipation is key, ensuring the user notices the element as it gradually makes its presence known."
+    "explanation": "<p>Object decelerates <b>normally</b> after accelerating <b>very gently</b> from its initial position.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "superSlow_moving": {
     "title": "superSlow_moving",
-    "explanation": "The object begins with an extended delay, moving almost imperceptibly at first, and then accelerates rapidly to complete the movement swiftly. This curve is suited for dramatic reveals or significant transitions, like unveiling a major feature or completing a critical action where the initial pause builds suspense before a quick resolution."
+    "explanation": "<p>Object accelerates <b>very gently</b> and ends up in a moving state.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "linear": {
     "title": "linear",
-    "explanation": "The object moves at a constant speed from start to finish, with no acceleration or deceleration. This uniform motion is ideal for straightforward transitions and animations where simplicity and predictability are desired, such as sliding images in a carousel or moving elements that shouldn't distract from the main content."
+    "explanation": "<p>Object moves at a constant speed form start to finish with no acceleration or deceleration.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "elastic": {
     "title": "elastic",
-    "explanation": "The object moves past its final position (overshoot) and then smoothly return to settle into place (relax). This motion is ideal for interactive elements that benefit from a dynamic and playful feel, such as buttons that bounce slightly when pressed or cards that spring into view, enhancing user engagement by providing satisfying visual feedback."
+   "explanation": "<p>The object moves past its final position (overshoot) and then smoothly return to settle into place (relax). This motion is ideal for interactive elements that benefit from a dynamic and playful feel.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   }
  
 }
