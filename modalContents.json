@@ -1,7 +1,7 @@
 {
   "moving_superSlow": {
     "title": "Softer Brake",
-    "explanation": "<p style ="font-family: 'Inter', sans-serif;">Object decelerates <b>very gently</b>after starting from a moving state.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
+    "explanation": "<span style ="font-family: 'Inter', sans-serif;">Object decelerates <b>very gently</b>after starting from a moving state.</span><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-10734&node-type=frame&viewport=320%2C-49%2C0.29&t=8QJaTXhpKZ7aeD6x-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=630%3A242' target='_blank'>Bottom Sheet</a></span></div>"
   },
   "moving_verySlow": {
     "title": "moving_verySlow",
