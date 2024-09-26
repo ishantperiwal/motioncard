@@ -33,7 +33,7 @@
   },
   "verySlow_moving": {
     "title": "verySlow_moving",
-    "explanation": "The object starts moving with a long delay, barely noticeable at first, and then accelerates to finish quickly. This creates a motion that transitions from subtle to swift, making it ideal for elements that should not startle the user but need to conclude promptly, such as a tooltip that appears slowly and then fades out quickly after conveying the message."
+    "explanation": "<p>Object accelerates gently and ends up in a moving state.</p>"
   },
   "superSlow_slow": {
     "title": "superSlow_slow",
