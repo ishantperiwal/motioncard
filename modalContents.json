@@ -53,7 +53,7 @@
   },
   "bounce": {
     "title": "bounce",
-   "explanation": "<p>The object moves to its final position (Action) at a constant speed and then reflects back with the same speed gently decelerating to its initial position (Reflection). The duration for reflection should be approximately 2.5x that of action. This motion is ideal for interactive elements that require instant and eye-catching visual feedback, such as button taps or clicks.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-11499&node-type=frame&viewport=-684%2C-3198%2C0.5&t=3xIUqzGFQaRNE8yU-1&scaling=min-zoom&content-scaling=fixed' target='_blank'>Button Tap</a></span></div>"
+   "explanation": "<p>The object moves to its final position (Action) at a constant speed and then reflects back with the same speed gently decelerating to its initial position (Reflection). The duration for reflection should be approximately 2.5x that of action.</p><div class='ideal-for-heading'>IDEAL FOR</div><div class='chips-container'><span class='chip'><a href='https://www.figma.com/proto/ErWcq8V7Qbs3PX0h54Ul5k/Motion-Design-Guidelines?page-id=8%3A32&node-id=359-11499&node-type=frame&viewport=-684%2C-3198%2C0.5&t=3xIUqzGFQaRNE8yU-1&scaling=min-zoom&content-scaling=fixed' target='_blank'>Button Tap</a></span></div>"
   }
  
 }
