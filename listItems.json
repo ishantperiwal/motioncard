@@ -98,7 +98,9 @@
       "type": "elastic",
       "parameter": "13| elastic",
       "backpercentage": "20",
-      "example": "Pop-up"
+      "example": "Pop-up",
+      "duration": "500",
+      "ratio": "1"
      },
      {
       "name": "bounce",
@@ -110,7 +112,9 @@
       "type": "elastic",
       "parameter": "13| elastic",
       "backpercentage": "80",
-      "example": "Button Tap"
+      "example": "Button Tap",
+      "duration": "300",
+      "ratio": "2.5"
      }
   
   ]
