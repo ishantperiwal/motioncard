@@ -110,7 +110,7 @@
       "coordinates2": "0.1, 0.1, 0.2, 1",
       "subtext": "Bounce Effect",
       "type": "elastic",
-      "parameter": "13| elastic",
+      "parameter": "14| bounce",
       "backpercentage": "80",
       "example": "Button Tap",
       "duration": "300",
