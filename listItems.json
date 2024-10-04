@@ -99,6 +99,18 @@
       "parameter": "13| elastic",
       "backpercentage": "20",
       "example": "Pop-up"
+     },
+     {
+      "name": "bounce",
+      "name1": "Action",
+      "name2": "Reflection",
+      "coordinates1": "0.1, 0.1, 0.9, 0.9",
+      "coordinates2": "0.1, 0.1, 0.2, 1",
+      "subtext": "Bounce Effect",
+      "type": "elastic",
+      "parameter": "13| elastic",
+      "backpercentage": "80",
+      "example": "Button Tap"
      }
   
   ]
